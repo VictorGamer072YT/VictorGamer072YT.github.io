@@ -9,6 +9,14 @@ If you are using the offline installer and wish to update HENkaku, you must firs
 
 If you are using Ensō, just install HENkaku again from this website and restart your Vita.
 
+Release 12 (April 20, 2021)
+-------------------------------------------------------------------------------
+* Updated molecularShell to v2.0, based out of VitaShell 2.0
+* Updated translations
+* Completely removed ux0:tai, please use ur0:tai.
+* Updated HENkaku settings with options to download and launch VitaShell, enso and VitaDeploy, mainly useful for users without a memory card.
+* Added 3.55 and 3.57 support.
+
 Release 11 (February 20, 2018)
 -------------------------------------------------------------------------------
 * Stability update: success rate should dramatically increase
