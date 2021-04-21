@@ -15,7 +15,7 @@ Release 13 (April 17, 2021)
 * Updated translations
 * Completely removed ux0:tai, please use ur0:tai.
 * Updated HENkaku settings with options to download and launch VitaShell, enso and VitaDeploy, mainly useful for users without a memory card.
-* I'd like to dedicate this release to the crew of **[Apollo 13]**(https://en.wikipedia.org/wiki/Apollo_13/), due to this, you will see a bunch of references, :D
+* I'd like to dedicate this release to the crew of **[Apollo 13](https://en.wikipedia.org/wiki/Apollo_13/)**, due to this, you will see a bunch of references, :D
 
 Release 12 (October 27, 2020)
 -------------------------------------------------------------------------------
